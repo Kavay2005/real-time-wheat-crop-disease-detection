@@ -1,9 +1,6 @@
 # 🌾 Crop Disease Detection using Deep Learning
 
 This repository contains a Convolutional Neural Network (CNN) model trained to detect diseases in wheat crops. The model is built and trained using Keras and TensorFlow, and it can be used to classify crop images into healthy or diseased categories.
-Made by : Kavay Yadav 2K23CSUN01300
-          Pratham 2K23CSUN01302
-          Saheb Alam 2K23CSUN01303
 ---
 
 ## 🧠 Model Overview
@@ -30,7 +27,7 @@ Made by : Kavay Yadav 2K23CSUN01300
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Kavay2005/ULNN_project.git
+git clone https://github.com/url
 cd your-repo-name
 
 2. Install the dependencies
